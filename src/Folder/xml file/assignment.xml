@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Adhoc">
+	<parameter name="browser" value="Chrome"></parameter>
+	<parameter name="url" value="https://jqueryui.com/droppable/"></parameter>
+	<test name="Home">
+		<classes>
+			<class name="Com.Selenium.AssignmentInClass.ClassAssignment_July_11_2020">
+			</class>
+		   </classes>
+	</test>
+</suite>
+
+<!-- -->
